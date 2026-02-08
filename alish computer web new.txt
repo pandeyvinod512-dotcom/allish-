@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Alish Computer Institute</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        header {
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #191970
+        }
+            background: #191970
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background: #0059b3;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 10px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 30px;
+            background: white;
+            margin: 20px;
+            border-radius: 5px;
+        }
+        h2 {
+            color: #003366;
+        }
+        ul li {
+            margin: 8px 0;
+        }
+        footer {
+            background: #FFE4E1
+            color: misty rose;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1 style="color:yellow;text-align:Center ";>Alish Computer Institute Of Group</h1>
+	<marquee dirction="auto">
+	<h3 style="color:red;text-align:Center";>www.alishcomputerinstituteofgroup.in every day new batch start open time Monday To Satar Saturday
+ 7:00 am to 6:00 pm</h3>
+	</marquee>
+    <p>A Complete Computer Education Center</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#courses">Courses</a>
+    <a href="#admission">Admission</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+    <h2>Welcome | स्वागत है</h2>
+    <p>
+        <strong>English:</strong>  
+        Alish Computer Institute is a professional computer education center providing practical and job-oriented training.
+    </p>
+    <p>
+        <strong>Hindi:</strong>  
+        Alish Computer Institute ek professional computer institute hai jo students ko practical aur job-oriented training deta hai.
+    </p>
+</section>
+
+<section id="about">
+    <h2>About Us | हमारे बारे में</h2>
+    <p>
+        <strong>English:</strong>  
+        Our mission is to provide quality computer education and make students digitally skilled.
+    </p>
+    <p>
+        <strong>Hindi:</strong>  
+        Hamara uddeshya students ko quality computer education dena aur unhe digitally skilled banana hai.
+    </p>
+</section>
+
+<section id="courses">
+    <h2>Our Courses | हमारे कोर्स</h2>
+    <ul>
+        <li>Basic Computer Course (BCC)</li>
+        <li>DCA / ADCA</li>
+        <li>MS Office</li>
+        <li>Tally + GST</li>
+        <li>Hindi & English Typing</li>
+        <li>Internet & Email</li>
+        <li>Graphic Designing (Basic)</li>
+    </ul>
+</section>
+
+<section id="admission">
+    <h2>Admission | प्रवेश</h2>
+    <p>
+        <strong>English:</strong>  
+        For admission, visit our institute or contact us. Limited seats available.
+    </p>
+    <p>
+        <strong>Hindi:</strong>  
+        Admission ke liye institute visit karein ya humse sampark karein. Seats limited hain.
+    </p>
+</section>
+
+<section id="contact">
+    <h2>Contact Us | संपर्क करें</h2>
+    <p><strong>Address:</strong> Alish Computer Institute, Your Area, Your City</p>
+    <p><strong>Phone:</strong> +91 8577051520</p>
+    <p><strong>Email:</strong> alishcomputer@gmail.com</p>
+    <p><strong>Time:</strong> Mon - Sat (7 AM – 5 PM)</p>
+</section>
+
+<footer>
+    <p>© 2025 Alish Computer Institute | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
